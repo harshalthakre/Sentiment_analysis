@@ -4,11 +4,11 @@ from textblob import TextBlob
 
 
 # authenticate the twitter API
-consumer_key = 'QavlJyMXE3J18OWfp0tRAImWL'
-consumer_secret = 'AyB6xE3ZeoCFn1sydHMokFV78saKLQzschp3HuRBmVIYjvaXUH'
+consumer_key = ''
+consumer_secret = ''
 
-access_token = '2626997796-TIcpSf1NVQI114H6HRLDkxWI5AODiib0H1IHfds'
-access_token_secret = '6gewIMCTWzlBz7r30En6zPJXeB33tL3uc2gYgqYg1tN95'
+access_token = ''
+access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
