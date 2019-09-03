@@ -82,3 +82,33 @@ for tweet in public_tweets:
     print(polarity)
     print(subjectivity)
 ```
+To summarize, In this example we have learned 
+- how to get tweets for twitter using tweepy
+- how to use textblob to get Polarity and Subjectivity of Statement and categorize it into four different type of statments i.e Positive   Negative , Opiniated , Factual
+
+To run this application :
+- Clone the repository
+```
+$ git clone <this_repo>
+```
+- go to project folder
+```
+$ mkdir myproject
+$ cd myproject
+$ python -m venv venv
+```
+- Activate the environmnet
+```
+venv\Scripts\activate
+```
+- install flas
+```
+$ pip install Flask
+```
+- Run the script as follows 
+```
+ C:\path\to\app>set Image_Classifier_app=app.py
+ python -m flask run
+```
+- Check http://localhost:5000
+- - Done! :tada: Enjoy your twitter sentiment analyzer 
