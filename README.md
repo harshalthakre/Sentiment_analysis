@@ -121,5 +121,5 @@ $ pip install Flask
   <img src="https://i.postimg.cc/FKCydVxX/demo.png" width="600px" alt="">
 </p>
 
-Here is the live demo : 
+Here is the video demo : 
 https://youtu.be/ASidqqUkK6A
