@@ -3,9 +3,6 @@ Search tweets with different sentiments
 
 ### What is Sentiment Analysis ?
 > <b> *"Sentiment analysis is basically the process of determining the attitude or the emotion of the writer (sentence,statement),i.e., whether it is positive or negative or neutral."* </b> <br><br>
-<p align="center">
-  <img src="https://i.postimg.cc/htvdqBKK/algorithms-can.jpg" width="300px" alt="" >
-</p>
 Sentiment analysis can be used to identify the customer or follower's attitude towards a brand through the use of variables such as context, tone, emotion, etc. Marketers can use sentiment analysis to research public opinion of their company and products, or to analyze customer satisfaction. Organizations can also use this analysis to gather critical feedback about problems in newly released products.
 > Sentiment analysis helps companies understand how they’re doing with their customers. <br>
 For example, if your company has 20% negative sentiment, is that bad? It depends. If your competitors have a roughly 50% positive and 10% negative sentiment, while yours is 20% negative, that merits more discovery to understand the drivers of these opinions. Knowing the sentiments associated with competitors helps companies evaluate their own performance and search for ways to improve. <br> <br>
