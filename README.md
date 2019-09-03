@@ -9,6 +9,10 @@ For example, if your company has 20% negative sentiment, is that bad? It depends
 We will be using tweets on <b>*"Twitter"*</b> to analyze sentiments . Twitter is the best Psychology tool out there . Twitter is a treasure trove of 
 sentiment . People around the world output thousands of recations and opinions on every topic under the sun every second every day . Let's leverage those tweets and analyze the data with power of machine learning .
 
+<p align="center">
+  <img src="https://i.postimg.cc/htvdqBKK/algorithms-can.jpg" width="300px" alt="">
+</p>
+
 In this example , we will be using 
 - <b>"textblob"</b> as our Natural Language Processing ToolKit to analyze the sentiments of written statement 
 - <b>"tweepy"</b> an easy-to-use Python library for accessing the Twitter API 
