@@ -84,7 +84,7 @@ for tweet in public_tweets:
 ```
 To summarize, In this example we have learned 
 - how to get tweets for twitter using tweepy
-- how to use textblob to get Polarity and Subjectivity of Statement and categorize it into four different type of statments i.e Positive   Negative , Opiniated , Factual
+- how to use textblob to get Polarity and Subjectivity of Statement and categorize it into four different type of statments i.e Positive,Negative , Opiniated , Factual
 
 To run this application :
 - Clone the repository
@@ -101,7 +101,7 @@ $ python -m venv venv
 ```
 venv\Scripts\activate
 ```
-- install flas
+- install flask
 ```
 $ pip install Flask
 ```
@@ -112,3 +112,8 @@ $ pip install Flask
 ```
 - Check http://localhost:5000
 - - Done! :tada: Enjoy your twitter sentiment analyzer 
+<br>
+<p align="center">
+  <img src="https://i.postimg.cc/FKCydVxX/demo.png" width="600px" alt="">
+</p>
+
