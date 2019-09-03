@@ -1,5 +1,8 @@
 # Sentiment_analysis
 Search tweets with different sentiments
+<p align="center">
+  <img src="https://i.postimg.cc/rmMxdZBm/sentiment.jpg" width="300px" alt="">
+</p>
 
 ### What is Sentiment Analysis ?
 > <b> *"Sentiment analysis is basically the process of determining the attitude or the emotion of the writer (sentence,statement),i.e., whether it is positive or negative or neutral."* </b> <br><br>
